@@ -1,3 +1,5 @@
+# Privacy Policy for PhotoBench
+
 ### Privacy Policy Overview
 
 At PhotoBench, we prioritize your privacy. Our commitment is to ensure that your personal data remains just that - personal. We don’t collect, track, sell, or distribute your personal information, and we do not integrate advertising networks into our app. Our revenue is generated through the sale of software licenses, upholding our principle of not compromising user privacy for profit.

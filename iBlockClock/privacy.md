@@ -1,4 +1,4 @@
-# iBlockClock App Privacy Policy
+# Privacy Policy for iBlockClock
 
 ### Privacy Policy Overview
 

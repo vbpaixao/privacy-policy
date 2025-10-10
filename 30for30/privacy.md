@@ -1,3 +1,5 @@
+# Privacy Policy for 30-for-30
+
 ### Privacy Policy Overview
 
 At 30-for-30, we prioritize your privacy. Our commitment is to ensure that your personal data remains just that - personal. We don’t access, track, sell, or distribute your personal information, nor do we integrate advertising networks into our app. Our revenue is generated through the sale of software licenses, upholding our principle of not compromising user privacy for profit.
