@@ -6,3 +6,4 @@
 - [RedactPhoto Privacy Policy](./photoBench/privacy.md)
 - [Image2Vector Privacy Policy](./image2vector/privacy.md)
 - [SmartMerge Privacy Policy](./smartMerge/privacy.md) 
+- [PhotoConverter Privacy Policy](./photoConverter/privacy.md)
